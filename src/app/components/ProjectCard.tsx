@@ -1,6 +1,7 @@
 import React from "react";
 import { CodeBracketIcon, EyeIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
+import { StaticImageData } from "next/image";
 
 interface ProjectCardProps {
     imgUrl: string,
